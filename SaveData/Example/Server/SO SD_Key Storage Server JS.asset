@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44020b9c47c0e7243ba74ae444544e23, type: 3}
+  m_Name: SO SD_Key Storage Server JS
+  m_EditorClassIdentifier: 
+  _nameSO: SO SD_Key Storage Server JS
+  _setName: 1
+  _ChechTargetPath: 0
+  _list:
+  - _identifierData: {fileID: 11400000, guid: 62faf7748ef4364479970b40842c3145, type: 2}
+    _dataKey:
+      _key: "\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0445\u0440\u0430\u043D\u0438\u043B\u0435\u0449\u0435"
+  _fatalError:
+    Enable: 0
+    TextError: 
+    MessageType: 3
+  _error:
+    Enable: 0
+    TextError: 
+    MessageType: 2

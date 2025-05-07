@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d68c55f9479ccc48afa2ef4709d9d86, type: 3}
+  m_Name: New SD_Server Storage Data Logic JS
+  m_EditorClassIdentifier: 
+  _keyInstanceClass: test
+  _bufferData:
+    _buffer: []
+  _saveBufferWating:
+    _buffer: []
+  _keyDkoGetDataInPlayer:
+    _dataSO: {fileID: 11400000, guid: 4dfdbaed0bc136e438a5a0292c30fd91, type: 2}
+    _selectIndif: {fileID: 11400000, guid: 7ca16a082de6dc740bb229faa16fa25b, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  _keyGeneralLogicGetDataInPlayer:
+    _dataSO: {fileID: 11400000, guid: d2fcfffd99751404e950c97a0076b133, type: 2}
+    _selectIndif: {fileID: 11400000, guid: 511db19ed48665144a950b307453cedf, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  _keyDkoSetDataInPlayer:
+    _dataSO: {fileID: 11400000, guid: 4dfdbaed0bc136e438a5a0292c30fd91, type: 2}
+    _selectIndif: {fileID: 11400000, guid: 7ca16a082de6dc740bb229faa16fa25b, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  _keyGeneralLogicSetDataInPlayer:
+    _dataSO: {fileID: 11400000, guid: d2fcfffd99751404e950c97a0076b133, type: 2}
+    _selectIndif: {fileID: 11400000, guid: 8cb2aad98b7d3a6469c0891bc75d077a, type: 2}
+    _error:
+      Enable: 0
+      TextError: 
+      MessageType: 0
+  _errorUploading: {fileID: 11400000, guid: 158b7e5cbae1407459bc213816b76d9a, type: 2}
+  _errorSave: {fileID: 11400000, guid: 88d33ca7e7ee03848b9dfa26c8bbb008, type: 2}

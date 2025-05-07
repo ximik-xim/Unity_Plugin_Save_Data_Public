@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1069d4693d96c9645826a9ae2f38e28e, type: 3}
+  m_Name: New SO Data MBS_DKO
+  m_EditorClassIdentifier: 
+  _nameSO: New SO Data MBS_DKO
+  _setName: 1
+  _ChechTargetPath: 0
+  _list:
+  - _identifierData: {fileID: 11400000, guid: 7ca16a082de6dc740bb229faa16fa25b, type: 2}
+    dataKeyDKO:
+      _key: "\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0435 DKO"
+  _fatalError:
+    Enable: 0
+    TextError: 
+    MessageType: 3
+  _error:
+    Enable: 0
+    TextError: 
+    MessageType: 2

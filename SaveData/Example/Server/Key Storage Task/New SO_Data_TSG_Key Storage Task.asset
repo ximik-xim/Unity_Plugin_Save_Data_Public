@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e621a3a3b3c12ce4484e3cf7f302ed7c, type: 3}
+  m_Name: New SO_Data_TSG_Key Storage Task
+  m_EditorClassIdentifier: 
+  _nameSO: New SO_Data_TSG_Key Storage Task
+  _setName: 1
+  _ChechTargetPath: 0
+  _list:
+  - _identifierData: {fileID: 11400000, guid: f5ff80ebdbf0f3c4fa9d054f6f922104, type: 2}
+    _dataKey:
+      _key: "\u0421\u043F\u0438\u0441\u043E\u043A \u0437\u0430\u0434\u0430\u0447
+        \u043D\u0430 \u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u043A\u0443
+        \u0441\u043E\u0445\u0440 \u043D\u0430 \u0441\u0435\u0440\u0432\u0435\u0440"
+  - _identifierData: {fileID: 11400000, guid: f484fbe738a7d6743847c9efe2dd609d, type: 2}
+    _dataKey:
+      _key: "\u0421\u043F\u0438\u0441\u043E\u043A \u0437\u0430\u0434\u0430\u0447
+        \u043D\u0430 \u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u043A\u0443
+        \u0432\u044B\u0433\u0440\u0443\u0437\u043A\u0438 \u0441 \u0441\u0435\u0440\u0432\u0435\u0440\u0430"
+  _fatalError:
+    Enable: 0
+    TextError: 
+    MessageType: 3
+  _error:
+    Enable: 0
+    TextError: 
+    MessageType: 2

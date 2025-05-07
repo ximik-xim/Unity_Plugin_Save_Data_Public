@@ -1,0 +1,6 @@
+using TListPlugin; 
+[System.Serializable]
+public class GetDataSO_SD_KeyStorageFloatVariable : Abs_Get_SO_IdentifierAndData<SO_Data_SD_KeyStorageFloatVariable,IdentifierAndData_SD_KeyStorageFloatVariable, IndifNameSO_SD_KeyStorageFloatVariable, string, SD_KeyStorageFloatVariable>
+{
+
+}
