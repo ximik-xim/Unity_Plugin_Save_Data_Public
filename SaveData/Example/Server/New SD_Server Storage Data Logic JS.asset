@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _keyInstanceClass: test
   _bufferData:
-    _buffer: []
+    _buffer:
+    - Key: "\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0445\u0440\u0430\u043D\u0438\u043B\u0435\u0449\u0435"
+      Data: "{\"_list\":[{\"Key\":\"\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0439
+        \u043A\u043B\u044E\u0447\",\"Data\":99.0}]}"
   _saveBufferWating:
     _buffer: []
   _keyDkoGetDataInPlayer:
@@ -47,3 +50,4 @@ MonoBehaviour:
       MessageType: 0
   _errorUploading: {fileID: 11400000, guid: 158b7e5cbae1407459bc213816b76d9a, type: 2}
   _errorSave: {fileID: 11400000, guid: 88d33ca7e7ee03848b9dfa26c8bbb008, type: 2}
+  _debugLog: 1
